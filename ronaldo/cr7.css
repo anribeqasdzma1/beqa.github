@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    background: url(beqa1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #1B3764;
+    font-size: 104px;
+}
+
+p{ 
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 2300;
+    text-align: center;
+    font-size: 35px;
+   color: #1B3764;
+}
+
+.vaxo {
+    font-size: 35px;
+}
+
+.abg {
+    font-size: 34px;
+}
